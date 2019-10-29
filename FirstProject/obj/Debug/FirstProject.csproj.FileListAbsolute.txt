@@ -1,0 +1,7 @@
+C:\Users\Jake Hamilton\Engineering45\Week2\day1\FirstProject\FirstProject\bin\Debug\FirstProject.exe.config
+C:\Users\Jake Hamilton\Engineering45\Week2\day1\FirstProject\FirstProject\bin\Debug\FirstProject.exe
+C:\Users\Jake Hamilton\Engineering45\Week2\day1\FirstProject\FirstProject\bin\Debug\FirstProject.pdb
+C:\Users\Jake Hamilton\Engineering45\Week2\day1\FirstProject\FirstProject\obj\Debug\FirstProject.csprojAssemblyReference.cache
+C:\Users\Jake Hamilton\Engineering45\Week2\day1\FirstProject\FirstProject\obj\Debug\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\Jake Hamilton\Engineering45\Week2\day1\FirstProject\FirstProject\obj\Debug\FirstProject.exe
+C:\Users\Jake Hamilton\Engineering45\Week2\day1\FirstProject\FirstProject\obj\Debug\FirstProject.pdb
